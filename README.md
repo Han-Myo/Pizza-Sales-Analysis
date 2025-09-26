@@ -26,7 +26,7 @@ This project analyzes a pizza sales dataset to uncover business insights with Py
     * Best-selling pizzas like The Classic Deluxe and Barbecue Chicken contribute a significant portion of revenue.
     * A few specialty pizzas, including the Brie Carre—show minimal demand and may require a menu rethink or promotional push.
 * Time Patterns
-    * Sales activity peaks around midday (12–14 hours) and again in the early evening (16–20 hours).
+    * Sales activity peaks around midday (12–13 hours) and again in the early evening (17–19 hours).
     * Fridays and Saturdays consistently produce the highest daily totals.
     * On a monthly scale, July, May, and November emerge as the most lucrative months.
  
