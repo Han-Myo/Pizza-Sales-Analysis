@@ -1,7 +1,9 @@
-# 🍕 Pizza Sales Analysis
+# Pizza Sales Analysis
 This project analyzes a pizza sales dataset to uncover business insights with Python, Pandas, and Matplotlib. It involves cleaning and preparing the data, exploring patterns through EDA, and creating clear visualizations to highlight key operational trends.
 
-# 🔍 Key Performance Indicator:
+---
+
+# Key Performance Indicator:
 * Total revenue and quantity sold
 * Total number of unique orders
 * Total number of pizza types 
@@ -13,11 +15,15 @@ This project analyzes a pizza sales dataset to uncover business insights with Py
 * Lowest-selling pizzas
 * Sales by pizza size (S, M, L, XL, XXL)
 
-# 🛠️ Tools Used:
+---
+
+# Tools Used:
 * Python: Pandas, Matplotlib
 * Jupyter Notebook
 
-# 📈 Insights:
+---
+
+# Insights:
 * Size Demand
     * The Large (L) option clearly leads in popularity, with close to 19 k pizzas sold.
     * Medium (M) follows with roughly 15.6 k units, and Small (S) isn’t far behind at about 14.4 k units.
@@ -30,7 +36,9 @@ This project analyzes a pizza sales dataset to uncover business insights with Py
     * Fridays and Saturdays consistently produce the highest daily totals.
     * On a monthly scale, July, May, and November emerge as the most lucrative months.
  
-# ✅ Conclusion
+---
+ 
+# Conclusion
 * Data-driven insights highlight when and what customers buy:
     * **Staffing & Promotions:** Focus resources during lunch and dinner peaks, and plan special offers in high-demand months.
     * **Menu Optimization:** Keep top sellers well stocked; reconsider or promote low performers.
